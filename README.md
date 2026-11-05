@@ -14,23 +14,33 @@ I enjoy turning complex ideas into simple, scalable, and well-crafted products.
 
 **Frontend Development**
 
-![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,jquery,webpack,storybook)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,jquery,webpack,storybook" alt="Frontend Skills" />
+</p>
 
 **Backend Development**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,postgres)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,postgres" alt="Backend Skills" />
+</p>
 
 **Tools & Environment**
 
-![Tools](https://skillicons.dev/icons?i=docker,linux,git,github)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" alt="Tools and Environment" />
+</p>
 
 ---
 
 ## GitHub Overview
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alisafariir&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisafariir&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top Languages" />
+  <a href="https://github.com/alisafariir">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alisafariir&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/alisafariir">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisafariir&layout=compact&langs_count=6&hide_border=true&theme=transparent&cache_seconds=86400" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -49,10 +59,18 @@ I enjoy turning complex ideas into simple, scalable, and well-crafted products.
   <a href="https://codepen.io/asafari72">
     <img src="https://skillicons.dev/icons?i=codepen" height="35" alt="CodePen" />
   </a>
+  &nbsp;
+  <a href="https://radioscript.dev">
+    <img src="https://cdn.simpleicons.org/rss/FF6B35" height="35" alt="RadioScript" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alisafariir/alisafariir/output/snake.svg" alt="Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alisafariir/alisafariir/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alisafariir/alisafariir/output/snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/alisafariir/alisafariir/output/snake.svg" />
+  </picture>
 </div>
