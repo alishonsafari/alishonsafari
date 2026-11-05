@@ -32,19 +32,6 @@ I enjoy turning complex ideas into simple, scalable, and well-crafted products.
 
 ---
 
-## GitHub Overview
-
-<div align="center">
-  <a href="https://github.com/alishonsafari">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alishonsafari&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/alishonsafari">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishonsafari&layout=compact&langs_count=6&hide_border=true&theme=transparent&cache_seconds=86400" alt="Top Languages" />
-  </a>
-</div>
-
----
-
 ## Let's Connect
 
 <p align="left">
