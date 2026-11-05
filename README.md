@@ -1,84 +1,67 @@
+# Hey, I'm Ali Safari 👋
 
-<h1 align="left">Hey 👋 What's up?</h1>
+**Front-End Developer · Product Designer · UI/UX Team Lead**
 
-###
+I’m a developer and product designer passionate about building meaningful digital experiences.
 
-<p align="left">My name is Ali Safari, and I am a Front-End Developer and Product Designer in the freelance field. In Demis company, I am the Front-End and UI/UX Team Lead.</p>
+Currently, I lead the Front-End and UI/UX team at **DemisCo**, working at the intersection of engineering, design, and product development.
 
-###
+I enjoy turning complex ideas into simple, scalable, and well-crafted products.
 
-<h2 align="left">My Skills</h2>
+---
 
-###
+## Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+**Frontend Development**
 
-###
+![HTML5](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,jquery,webpack,storybook)
+
+**Backend Development**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb)
+
+**Tools & Environment**
+
+![Tools](https://skillicons.dev/icons?i=docker,linux,git,github)
+
+---
+
+## GitHub Overview
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/alisafariir/count.svg?"  />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alisafariir&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisafariir&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
+
 </div>
 
-###
+---
+
+## Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alisafariir/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@alisafariir">
+    <img src="https://cdn.simpleicons.org/youtube/FF0033" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/alisafariir">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://codepen.io/asafari72">
+    <img src="https://skillicons.dev/icons?i=codepen" height="35" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisafariir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisafariir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img src="https://raw.githubusercontent.com/alisafariir/alisafariir/output/snake.svg" alt="GitHub contribution snake animation" />
+
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/alisafariir/alisafariir/b51980213db0aa26b4218d9c446b4de8dc47ceeb/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">Connect with me</h2>
-
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/alisafariir/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@alisafariir" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <a href="https://instagram.com/alisafariir" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://codepen.io/asafari72" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-</div>
-
-###
