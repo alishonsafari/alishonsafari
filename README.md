@@ -35,11 +35,11 @@ I enjoy turning complex ideas into simple, scalable, and well-crafted products.
 ## GitHub Overview
 
 <div align="center">
-  <a href="https://github.com/alisafariir">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alisafariir&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <a href="https://github.com/alishonsafari">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alishonsafari&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/alisafariir">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisafariir&layout=compact&langs_count=6&hide_border=true&theme=transparent&cache_seconds=86400" alt="Top Languages" />
+  <a href="https://github.com/alishonsafari">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishonsafari&layout=compact&langs_count=6&hide_border=true&theme=transparent&cache_seconds=86400" alt="Top Languages" />
   </a>
 </div>
 
@@ -69,8 +69,8 @@ I enjoy turning complex ideas into simple, scalable, and well-crafted products.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alisafariir/alisafariir/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alisafariir/alisafariir/output/snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/alisafariir/alisafariir/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alishonsafari/alishonsafari/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alishonsafari/alishonsafari/output/snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/alishonsafari/alishonsafari/output/snake.svg" />
   </picture>
 </div>
